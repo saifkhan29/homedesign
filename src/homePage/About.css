@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+.container2 {
+    height: 100%;
+    margin: 30px 0 !important;
+    width: 100%;
+  }
+  
+  @media screen and (max-width: 1019px) {
+    .container2 {
+      height: 100% !important;
+    }
+    .section2cont {
+      height: 100% !important;
+    }
+    .sec2side1 {
+      height: 100% !important;
+    }
+    .sec2side2 {
+      height: 100% !important;
+    }
+  }
+  
+  .container2 h2 {
+    text-align: center;
+    padding-top: 30px;
+    font-family: roboto;
+    text-transform: uppercase;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    font-size: 2rem;
+  }
+  
+  .section2cont {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .sec2side1 {
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 30px 0;
+  }
+  .sec2side2 {
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px 0;
+  }
+  
+  .sec2side1sub1 {
+    height: 240px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 20px;
+  }
+  
+  .sec2side1sub2 {
+    height: 240px;
+    width: 650px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .sec2side1sub2 div:nth-of-type(1) {
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .sec2side1sub2 div:nth-of-type(2) {
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+  }
+  
+  .sec2side1sub2 div h3 {
+    font-family: roboto;
+    text-transform: uppercase;
+  }
+  
+  .sec2side1sub1 img {
+    height: 230px;
+    width: 300px;
+  }
+  
+  @media screen and (max-width: 800px) {
+    .sec2side2 {
+      flex-wrap: wrap-reverse;
+    }
+    .sec2side1sub2 {
+      width: 100%;
+      margin: 10px 20px;
+    }
+  }

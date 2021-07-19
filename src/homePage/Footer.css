@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+footer{
+    height: 45vh;
+    margin-top: 50px;
+    background-color: gray;
+  }
+  
+  @media (max-width: 550px){
+    .footerTitle{
+      font-size: 1.3rem !important;
+      letter-spacing: 10px !important;
+    }
+  }
+  
+  .footerTitle{
+    height: 25%;
+    background-color: #212529;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    letter-spacing: 20px;
+    font-weight: 800;
+    color: #ced4da;
+  }
+  
+  .footerContent{
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #343a40;
+  }
+  
+  .footerContent div:nth-of-type(1):hover{
+    color: gold;
+    cursor: pointer;
+    transform: scale(1.05);
+  }
+  .footerContent div:nth-of-type(2):hover{
+    color: gold;
+    cursor: pointer;
+    transform: scale(1.05);
+  }
+  .footerContent div:nth-of-type(3):hover{
+    color: gold;
+    cursor: pointer;
+    transform: scale(1.05);
+  }
+  .footerContent div:nth-of-type(4):hover{
+    color: gold;
+    cursor: pointer;
+    transform: scale(1.05);
+  }
