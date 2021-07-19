@@ -5,15 +5,15 @@ export default function About() {
     return (
         <div>
             <section >
-      <div id="about" class="container2">
+      <div id="about" className="container2">
         <h2 >About Us</h2>
 
-        <div class="section2cont">
-          <div class="sec2side1">
-            <div class="sec2side1sub1">
+        <div className="section2cont">
+          <div className="sec2side1">
+            <div className="sec2side1sub1">
               <img src="https://user-images.githubusercontent.com/79800224/126149001-4ccf5ef2-6c58-495f-83c0-dbb269c3e296.png" alt="" />
             </div>
-            <div class="sec2side1sub2">
+            <div className="sec2side1sub2">
               <div><h3>HR Tech</h3></div>
               <div>
                 <p>
@@ -26,8 +26,8 @@ export default function About() {
               </div>
             </div>
           </div>
-          <div class="sec2side2">
-            <div class="sec2side1sub2">
+          <div className="sec2side2">
+            <div className="sec2side1sub2">
               <div><h3>Insurance Tech</h3></div>
               <div>
                 <p>
@@ -39,7 +39,7 @@ export default function About() {
                 </p>
               </div>
             </div>
-            <div class="sec2side1sub1">
+            <div className="sec2side1sub1">
               <img src="https://user-images.githubusercontent.com/79800224/126148995-2f469f62-946d-4170-8506-6fc86d81de96.png" alt="" />
             </div>
           </div>
