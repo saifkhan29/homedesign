@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/homedesign/static/css/main.11da2224.chunk.css",
+    "main.js": "/homedesign/static/js/main.c544bde2.chunk.js",
+    "main.js.map": "/homedesign/static/js/main.c544bde2.chunk.js.map",
+    "runtime-main.js": "/homedesign/static/js/runtime-main.ebeb38de.js",
+    "runtime-main.js.map": "/homedesign/static/js/runtime-main.ebeb38de.js.map",
+    "static/js/2.0f8c8c68.chunk.js": "/homedesign/static/js/2.0f8c8c68.chunk.js",
+    "static/js/2.0f8c8c68.chunk.js.map": "/homedesign/static/js/2.0f8c8c68.chunk.js.map",
+    "static/js/3.6f568c2c.chunk.js": "/homedesign/static/js/3.6f568c2c.chunk.js",
+    "static/js/3.6f568c2c.chunk.js.map": "/homedesign/static/js/3.6f568c2c.chunk.js.map",
+    "index.html": "/homedesign/index.html",
+    "static/css/main.11da2224.chunk.css.map": "/homedesign/static/css/main.11da2224.chunk.css.map",
+    "static/js/2.0f8c8c68.chunk.js.LICENSE.txt": "/homedesign/static/js/2.0f8c8c68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebeb38de.js",
+    "static/js/2.0f8c8c68.chunk.js",
+    "static/css/main.11da2224.chunk.css",
+    "static/js/main.c544bde2.chunk.js"
+  ]
+}
