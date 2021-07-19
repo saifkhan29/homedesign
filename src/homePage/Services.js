@@ -5,10 +5,10 @@ export default function Services() {
     return (
         <div>
             <section>
-      <div class="container4">
-        <h2 class="cont4heading">Our Services</h2>
-        <div class="cont4side1">
-          <div class="cont4content">
+      <div className="container4">
+        <h2 className="cont4heading">Our Services</h2>
+        <div className="cont4side1">
+          <div className="cont4content">
             <h2>Hiring</h2>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
@@ -20,8 +20,8 @@ export default function Services() {
             </p>
           </div>
         </div>
-        <div class="cont4side2">
-          <div class="cont4content">
+        <div className="cont4side2">
+          <div className="cont4content">
             <h2>Payroll Management</h2>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
@@ -33,8 +33,8 @@ export default function Services() {
             </p>
           </div>
         </div>
-        <div class="cont4side1">
-          <div class="cont4content">
+        <div className="cont4side1">
+          <div className="cont4content">
             <h2>Insurance</h2>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
@@ -46,8 +46,8 @@ export default function Services() {
             </p>
           </div>
         </div>
-        <div class="cont4side2">
-          <div class="cont4content">
+        <div className="cont4side2">
+          <div className="cont4content">
             <h2>Loan</h2>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
